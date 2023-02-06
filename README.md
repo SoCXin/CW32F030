@@ -1,7 +1,7 @@
 ﻿# [CW32F030](https://doc.soc.xin/CW32F030)
 
 * [whxy](https://www.whxy.com/): [Cortex-M0](https://github.com/SoCXin/Cortex)
-* [L1R1](https://github.com/SoCXin/Level): 64 MHz , [￥3.897](https://item.szlcsc.com/3534136.html)
+* [L2R2](https://github.com/SoCXin/Level): 64 MHz , [￥3.897](https://item.szlcsc.com/3534136.html)
 
 ## [简介](https://github.com/SoCXin/CW32F030/wiki)
 
