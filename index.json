@@ -1,0 +1,37 @@
+{
+    "type":"MCU",
+    "name":"CW32F030",
+    "title": "whxy CW32F030 MCU",
+    "description":"whxy Low Volt MCU",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M0",
+        "Fmax":64,
+        "DMIPS": 60,
+        "CoreMark": 140
+    },
+    "manufacturer": {
+        "vendor":"whxy",
+        "homepage":"https://www.whxy.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/CW32F030.git"
+    },
+    "version":"1.0.0",
+    "series":["CW32F030"],
+    "package":["QFN16","LQFP32","TSSOP20","LQFP48"],
+    "peripheral": ["ADC","USART","SPI","I2C"],
+    "temp": [-40,105],
+    "volt": [1.65,5.5],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M0",
+        "whxy",
+        "ADC","I2C","SPI","USART"
+    ]
+}
+
